@@ -35,16 +35,7 @@
 
 .seccion-uno{
 	background-color: #45b39c;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-orient: vertical;
-	-webkit-box-direction: normal;
-	    -ms-flex-direction: column;
-	        flex-direction: column;
-	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	text-align: center;
 	padding: 58px;
 }
 .seccion-uno h1{
@@ -89,16 +80,7 @@
 
 
 .seccion-dos{
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-orient: vertical;
-	-webkit-box-direction: normal;
-	    -ms-flex-direction: column;
-	        flex-direction: column;
-	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	
 	margin: 56px 0;
 }
 .seccion-dos h2{
